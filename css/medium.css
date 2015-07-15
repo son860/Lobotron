@@ -1,0 +1,21 @@
+/* Estilização CSS da visualização para telas comuns de 1024x768px */
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+   font-family: Helvetica;
+   color:#fff;
+   text-align: center;
+   width: 100%;
+}
+
+.page-principal{
+	position: relative;
+	width:100%;
+	margin:0 auto;
+	height: 960px;
+	background-color:#ff2244;
+}
